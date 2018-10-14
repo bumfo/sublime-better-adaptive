@@ -454,3 +454,4 @@ settings:
   scope: invalid.illegal
   settings:
     foreground: '#d3d0c8'
+    # background: '#515151'
