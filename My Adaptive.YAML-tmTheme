@@ -455,3 +455,45 @@ settings:
   settings:
     foreground: '#d3d0c8'
     # background: '#515151'
+
+- name: Inserted
+  scope: markup.inserted
+  settings:
+    foreground: '#99cc99'
+- name: Deleted
+  scope: markup.deleted
+  settings:
+    foreground: '#f2777a'
+- name: Changed
+  scope: markup.changed
+  settings:
+    foreground: '#cc99cc'
+
+- name: Headings
+  scope: markup.heading punctuation.definition.heading, entity.name.section
+  settings:
+    fontStyle: ''
+    foreground: '#6699cc'
+- name: Bold
+  scope: markup.bold, punctuation.definition.bold
+  settings:
+    fontStyle: bold
+    foreground: '#ffcc66'
+- name: Italic
+  scope: markup.italic, punctuation.definition.italic
+  settings:
+    fontStyle: italic
+    foreground: '#cc99cc'
+- name: Code
+  scope: markup.raw.inline
+  settings:
+    foreground: '#99cc99'
+
+- name: Lists
+  scope: markup.list
+  settings:
+    foreground: '#f2777a'
+- name: Quotes
+  scope: markup.quote
+  settings:
+    foreground: '#f99157'
