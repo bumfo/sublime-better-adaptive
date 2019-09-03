@@ -497,3 +497,27 @@ settings:
   scope: markup.quote
   settings:
     foreground: '#f99157'
+
+
+- name: Support Class
+  scope: support.class.character-class.regexp
+  settings:
+    foreground: '#ffcc66'
+
+- name: Sublime Syntax Variables
+  scope: variable.other.sublime-syntax
+  settings:
+    foreground: '#f2777a'
+
+- name: Colors
+  scope: constant.other.color
+  settings:
+    foreground: '#66cccc'
+- name: Regular Expressions
+  scope: string.regexp
+  settings:
+    foreground: '#66cccc'
+- name: Escape Characters
+  scope: constant.character.escape
+  settings:
+    foreground: '#66cccc'

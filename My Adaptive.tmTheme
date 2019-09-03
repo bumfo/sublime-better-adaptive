@@ -824,6 +824,61 @@
 				<string>#f99157</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support Class</string>
+			<key>scope</key>
+			<string>support.class.character-class.regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffcc66</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sublime Syntax Variables</string>
+			<key>scope</key>
+			<string>variable.other.sublime-syntax</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f2777a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colors</string>
+			<key>scope</key>
+			<string>constant.other.color</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66cccc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Regular Expressions</string>
+			<key>scope</key>
+			<string>string.regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66cccc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escape Characters</string>
+			<key>scope</key>
+			<string>constant.character.escape</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66cccc</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>36594751-36ac-443a-9f2f-111b815085ca</string>
